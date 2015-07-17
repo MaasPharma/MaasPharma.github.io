@@ -415,11 +415,11 @@
 						</a>
 						
 						<a href="https://twitter.com/MaasPharma" class="twitter" title="Twitter" target="blank_">
-							Twitter <!--i class="x-icon-twitter-square" data-x-icon=""></i-->
+							<i class="x-icon-twitter-square" data-x-icon=""></i>
 						</a>
 						
 						<a href="https://www.linkedin.com/company/6578686?trk=hp-feed-company-name" class="linkedin" title="LinkedIn" target="blank_">
-							| LinkedIn<!--i class="x-icon-linkedin-square" data-x-icon=""></i-->
+							<i class="x-icon-linkedin-square" data-x-icon=""></i>
 						</a>
 						
 					</div>        
